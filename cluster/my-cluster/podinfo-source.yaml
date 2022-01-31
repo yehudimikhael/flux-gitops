@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/dexterposh/podinfo
+  url: https://github.com/stefanprodan/podinfo
 
